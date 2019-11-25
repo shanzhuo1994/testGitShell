@@ -1,4 +1,5 @@
 this is my git test text.
 oh ,shit !
 oh,fuck!
-mmp
+mmp.
+stage.
